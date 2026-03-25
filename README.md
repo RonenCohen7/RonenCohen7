@@ -1,6 +1,6 @@
-# Hi there 👋 I’m **Ronen Cohen**            🤖 [portfolio](https://ronencohen7.github.io/pro_web)
+# Hi there 👋 I’m **Ronen Cohen**     
 
-🚀 **Senior Technology Advisor | Full Stack Developer | Data & Project Integration Expert**
+🚀 **Full-Stack & AI Engineer with experience building scalable, secure, and data-intensive production systems**
 
 ---
 
