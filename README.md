@@ -5,13 +5,11 @@
 ---
 
 ## 🔹 About Me
-I specialize in **leading and delivering technological projects end-to-end**, combining strong **project management** skills with deep **hands-on coding expertise**.  
+Full-Stack & AI Engineer with experience building scalable, secure, and data-intensive production systems.
+I specialize in modern Full-Stack development using React, Node.js, TypeScript, and Python, combined with AI-powered solutions and data-driven applications.
+I have strong experience working with MySQL, SQL Server, and MongoDB, and building end-to-end systems including APIs, data pipelines, microservices, and full web applications.
 
-- Proven ability to **lead multidisciplinary teams** and deliver **large-scale data integration projects**.  
-- Strong background in **designing and developing full-stack applications** using modern technologies.  
-- Extensive experience in **building BI dashboards, ETL processes, and scalable data pipelines**.  
-- Expert in **bridging business goals with technical execution** while staying budget-conscious.  
-
+I enjoy designing systems from architecture level to production deployment using Docker and microservices architecture.
 ---
 
 ## 🧑‍💻 Work Experience
